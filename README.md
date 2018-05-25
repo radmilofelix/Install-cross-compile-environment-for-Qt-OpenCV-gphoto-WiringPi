@@ -1,0 +1,1 @@
+# Install-cross-compile-environment-for-Qt-OpenCV-gphoto-WiringPi
