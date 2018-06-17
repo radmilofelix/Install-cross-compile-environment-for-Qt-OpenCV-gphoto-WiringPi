@@ -44,6 +44,9 @@ The installer will ask you for your login data, then chose the installation fold
 
 Enable sources repos: Run "Software Updater", click "Settings" button, select "Ubuntu Software" tab and check "Source code" checkbox.
 
+Install net-tools
+$ apt install net-tools
+
 Boot the Raspberry Pi, connect it to the local network and run the setup script.
 
 script, blablabla
